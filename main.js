@@ -13,7 +13,7 @@ function sub(a,b) {
   return a-b
 }
 
-function name() {
+function random() {
   return Math.random()
 }
 
