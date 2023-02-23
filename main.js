@@ -8,3 +8,7 @@ function saluta(params) {
 function sum(a,b) {
   return a+b
 }
+
+function name() {
+  return Math.random()
+}
