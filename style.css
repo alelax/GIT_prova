@@ -7,3 +7,7 @@
 body {
   background-color: blue;
 }
+
+p {
+  font-weight: bold;
+}
