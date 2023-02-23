@@ -16,3 +16,8 @@ function sub(a,b) {
 function name() {
   return Math.random()
 }
+
+
+function pow(a) {
+  return a*a
+}
