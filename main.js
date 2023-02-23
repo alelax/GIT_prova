@@ -9,7 +9,7 @@ function sum(a,b) {
   return a+b
 }
 
-function name() {
+function funcName() {
   return Math.random()
 }
 
